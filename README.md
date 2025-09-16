@@ -1,6 +1,6 @@
 ## Memulai
 
-1. Download NodeJS versi terbaru di [disini](https://nodejs.org/en/http://localhost:3000/)
+1. Download NodeJS versi terbaru di [disini](https://nodejs.org/)
 2. Download project
 3. Buka project dan buka terminal yang mengarah ke directory project lalu ketikkan
    ```bash
